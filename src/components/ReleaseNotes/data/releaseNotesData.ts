@@ -86,6 +86,13 @@ import {
             link: "/release-notes/continuous-integration",
           },
           {
+            title: "Artifact Registry release notes",
+            module: MODULES.ar,
+            description:
+              "",
+            link: "/release-notes/artifact-registry",
+          },
+          {
             title: "Feature Flags release notes",
             module: MODULES.ff,
             description:
@@ -105,6 +112,13 @@ import {
             description:
               "",
             link: "/release-notes/internal-developer-portal",
+          },
+          {
+            title: "Internal Developer Portal release notes",
+            module: MODULES.cde,
+            description:
+              "",
+            link: "/release-notes/cloud-development-environment",
           },
           {
             title: "Security Testing Orchestration release notes",

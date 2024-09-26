@@ -122,6 +122,10 @@ async function config() {
                   to: 'docs/continuous-integration',
                 },
                 {
+                  label: 'Artifact Registry',
+                  to: 'docs/artifact-registry',
+                },
+                {
                   label: 'Continuous Delivery & GitOps',
                   to: 'docs/continuous-delivery',
                 },
@@ -156,6 +160,10 @@ async function config() {
                 {
                   label: 'Internal Developer Portal',
                   to: 'docs/internal-developer-portal',
+                },
+                {
+                  label: 'Cloud Development Environments (BETA)',
+                  to: 'docs/cloud-development-environment',
                 },
                 {
                   label: 'Software Engineering Insights',

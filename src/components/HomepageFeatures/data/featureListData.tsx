@@ -20,6 +20,14 @@ export const featureList: CardItem[] = [
     type: [docType.Documentation],
   },
   {
+    title: "Store Artifacts",
+    module: MODULES.ar,
+    icon: "img/icon_artifact_registry.svg",
+    description: "Store your binaries natively on Harness.",
+    link: "docs/artifact-registry/overview",
+    type: [docType.Documentation],
+  },
+  {
     title: "Set up CD Pipelines",
     module: MODULES.cd,
     icon: "img/icon_cd.svg",
@@ -90,6 +98,14 @@ export const featureList: CardItem[] = [
     icon: "img/icon_idp.svg",
     description: <>A home for developers to create, manage, and explore software.</>,
     link: "docs/category/get-started-with-idp",
+    type: [docType.Documentation],
+  },
+  {
+    title: "Set up Cloud Development Environments",
+    module: MODULES.cde,
+    icon: "img/cde_icon.svg",
+    description: <>Accelerate developer experience with pre-configured, secure and scalable development environments.</>,
+    link: "docs/cloud-development-environment",
     type: [docType.Documentation],
   },
   {

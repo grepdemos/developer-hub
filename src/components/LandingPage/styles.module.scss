@@ -157,6 +157,13 @@
     padding-left: 10px;
   }
 }
+.btnCDE {
+  background: var(--mod-cde-200);
+  border-color: var(--mod-cde-200);
+  img {
+    padding-left: 10px;
+  }
+}
 .btnCV {
   background: var(--mod-cv-200);
   border-color: var(--mod-cv-200);
@@ -167,6 +174,13 @@
 .btnCI {
   background: var(--mod-ci-200);
   border-color: var(--mod-ci-200);
+  img {
+    padding-left: 10px;
+  }
+}
+.btnAR {
+  background: var(--mod-ar-200);
+  border-color: var(--mod-ar-200);
   img {
     padding-left: 10px;
   }
